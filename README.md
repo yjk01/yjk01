@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yejun Kim</h1>
+<h1 align="center">Yejun Kim</h1>
 <!-- <h3 align="center">An aspiring Software Engineer.</h3> -->
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yjk01&label=Profile%20views&color=0e75b6&style=flat" alt="yjk01" /> </p> -->
